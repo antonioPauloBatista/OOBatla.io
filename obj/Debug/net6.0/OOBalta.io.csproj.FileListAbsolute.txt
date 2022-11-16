@@ -1,0 +1,15 @@
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.csproj.AssemblyReference.cache
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.GeneratedMSBuildEditorConfig.editorconfig
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.AssemblyInfoInputs.cache
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.AssemblyInfo.cs
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.csproj.CoreCompileInputs.cache
+/home/antonio/Projetos/OOBatla.io/bin/Debug/net6.0/OOBalta.io
+/home/antonio/Projetos/OOBatla.io/bin/Debug/net6.0/OOBalta.io.deps.json
+/home/antonio/Projetos/OOBatla.io/bin/Debug/net6.0/OOBalta.io.runtimeconfig.json
+/home/antonio/Projetos/OOBatla.io/bin/Debug/net6.0/OOBalta.io.dll
+/home/antonio/Projetos/OOBatla.io/bin/Debug/net6.0/ref/OOBalta.io.dll
+/home/antonio/Projetos/OOBatla.io/bin/Debug/net6.0/OOBalta.io.pdb
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.dll
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/ref/OOBalta.io.dll
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.pdb
+/home/antonio/Projetos/OOBatla.io/obj/Debug/net6.0/OOBalta.io.genruntimeconfig.cache
